@@ -2,3 +2,6 @@ Hello
 world
 
 is my new projetc
+<?php
+phpinfo()
+?>
